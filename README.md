@@ -14,6 +14,7 @@ A repository to demonstrate the power of Github while maintaining a curated list
  - `The Culture` series (Ian M. Banks)
  - `Hyperion` cycle (Dan Simmons)
  - `Anathem` (Neal Stephenson)
+ - `A Fire Upon The Deep` (Vernon Vinge)
 
 ## Suggestions by others
 

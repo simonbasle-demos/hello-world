@@ -20,3 +20,6 @@ A repository to demonstrate the power of Github while maintaining a curated list
 
 Please fill an [Issue](https://github.com/simonbasle/hello-world/issues) or a [Pull-Request](https://github.com/simonbasle/hello-world/pulls) to add to these suggestions :smile:
 (see [#1](https://github.com/simonbasle/hello-world/pull/1) for an example of Pull Request)
+
+### Misc
+_Test_

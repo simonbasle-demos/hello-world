@@ -15,6 +15,7 @@ A repository to demonstrate the power of Github while maintaining a curated list
  - `Hyperion` cycle (Dan Simmons)
  - `Anathem` (Neal Stephenson)
  - `A Fire Upon The Deep` (Vernor Vinge)
+ - `Gideon the Ninth`
 
 ## Suggestions by others
 
